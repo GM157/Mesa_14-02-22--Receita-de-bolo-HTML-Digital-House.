@@ -1,0 +1,14 @@
+body {background-color:rgba(255, 166, 0, 0.61) ;}
+
+.titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:brown
+}
+
+.subtitulo {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h2 {
+    color:brown;
+}
